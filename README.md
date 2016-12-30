@@ -1,2 +1,3 @@
-# web
-Repositorio para la página web de e++ Parking Innovations.
+# Web
+Revisad la rama gh-pages
+:)
